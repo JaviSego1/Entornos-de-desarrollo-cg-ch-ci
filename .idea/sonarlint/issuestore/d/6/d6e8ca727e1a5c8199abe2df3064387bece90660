@@ -1,0 +1,13 @@
+
+˜	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµòÿÿÿÿÿ8›ÚÅ‘í1J$1790d06c-60ed-49d9-9b73-82d79a758ce3
+“	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Œ¡´8›ÚÅ‘í1J$60639e29-3829-47c1-bf6b-ca816040e3ed
+“	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8œÚÅ‘í1J$c339df63-53ba-4f30-9fe4-5634771f075a
+“	java:S116"QRename this field "emp_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÇ8¦ÚÅ‘í1J$ea972d8b-4e73-43c6-bc0a-6881dfa248fa
+	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”Ä–8­ÚÅ‘í1J$7c3587ec-6aab-403e-bda0-052573b26a71
+	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8­ÚÅ‘í1J$bdbc47da-b574-4bc2-a30a-52bf70e08f00
+„
+java:S1126n"AReplace this if-then-else statement by a single return statement.(Ç’Õ8´ÚÅ‘í1J$891eb4da-d00b-49e1-b719-e4190fd44254
+o
+java:S1068",Remove this unused "apellido" private field.(åÔĞÁ8¶ÚÅ‘í1J$3c3b8ee2-f3fe-4f61-9f01-d90963584873
+v
+java:S1144m".Remove this unused private "comprobar" method.(Àø±†şÿÿÿÿ8·ÚÅ‘í1J$233bd466-ac68-4128-b8e4-2fdbed6c8c87
