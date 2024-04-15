@@ -12,7 +12,7 @@
 
 
 public class Empleado {
-
+//////hola
 	/** Número de empleado.
 	 * @serial
 	 */
