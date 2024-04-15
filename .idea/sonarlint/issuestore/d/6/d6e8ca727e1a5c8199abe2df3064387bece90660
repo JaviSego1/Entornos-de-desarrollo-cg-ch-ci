@@ -1,13 +1,17 @@
 
-˜	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµòÿÿÿÿÿ8›ÚÅ‘í1J$1b68baa9-48d5-4313-926f-6c02d3d7a88a
-“	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Œ¡´8›ÚÅ‘í1J$7b0a6262-d016-4a11-8445-9fdcd3aace01
-“	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8œÚÅ‘í1J$2d4dddc9-5cec-4094-bf17-f279e843592c
-“	java:S116"QRename this field "emp_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÇ8¦ÚÅ‘í1J$ab83f115-b962-41d0-b92f-28a7ba6ed3fa
-	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”Ä–8­ÚÅ‘í1J$f7c89b2a-ecfa-4105-9a99-9c3accb66eca
-	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8­ÚÅ‘í1J$b44c971a-0f47-48d0-bb4a-7b956cc72ce7
+˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµòÿÿÿÿÿ8›ÚÅ‘í1J$76df04d6-1add-4856-8ed6-b185b33ef58e
+“	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Œ¡´8›ÚÅ‘í1J$3c1aa416-53e6-4f8e-8515-5a8277cf5ac2
+“	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8œÚÅ‘í1J$61e223ed-e935-48dd-8b70-c947d4b0470d
+“	java:S116"QRename this field "emp_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÇ8¦ÚÅ‘í1J$34e5941a-83d7-485a-a12b-d09e3b2cc727
+	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”Ä–8­ÚÅ‘í1J$b50077e1-7f29-47c8-a81c-bd9882bd15d8
+	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8­ÚÅ‘í1J$02629db9-3f43-4a66-bc2d-67194d8966c6
+~
+java:S1133ê"5Do not forget to remove this deprecated code someday.(Àø±†şÿÿÿÿ8¯Ğëˆî1J$3f2fe89a-0a72-457c-8e84-461b6fecddee
+p
+java:S1123ê"'Add the missing @Deprecated annotation.(Àø±†şÿÿÿÿ8°Ğëˆî1J$6e149d3c-d08e-4666-967f-db43bc7aab5c
 …
-java:S1126æ"AReplace this if-then-else statement by a single return statement.(Ç’Õ8´ÚÅ‘í1J$a4ec6ebb-eea2-4a83-bba6-cbd1b215b048
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(Ç’Õ8´ÚÅ‘í1J$cd2345aa-a34a-422e-bf1b-37be2fe1698c
 o
-java:S1068",Remove this unused "apellido" private field.(åÔĞÁ8¶ÚÅ‘í1J$14cd71fd-2858-4df2-9dd7-b43a6cac26c0
+java:S1068",Remove this unused "apellido" private field.(åÔĞÁ8¶ÚÅ‘í1J$1a4bbd4e-27ec-41db-bc92-e130b4d3309d
 w
-java:S1144å".Remove this unused private "comprobar" method.(Àø±†şÿÿÿÿ8·ÚÅ‘í1J$9a282117-5e56-4297-8db5-3abe298134c4
+java:S1144ê".Remove this unused private "comprobar" method.(Àø±†şÿÿÿÿ8·ÚÅ‘í1J$726d426a-bc78-44e2-bd31-9ab9e1a49bbf

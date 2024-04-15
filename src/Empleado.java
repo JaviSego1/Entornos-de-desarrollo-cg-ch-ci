@@ -7,12 +7,15 @@
  * @author manana
  * @version 1.0.0
  * @since 12/04/2024
+ * @see <a href="https://www.java.es">API JAVA</a>
  */
 
 
 public class Empleado {
 
-	/** Número de empleado. */
+	/** Número de empleado.
+	 * @serial
+	 */
 	private int emp_no;
 
 	/** Nombre del empleado. */
@@ -224,6 +227,8 @@ public class Empleado {
 	 * Comprueba si el nombre del empleado está vacío.
 	 *
 	 * @return true si el nombre no está vacío, false de lo contrario.
+	 * @deprecated Este método está obsoleto y será eliminado en versiones futuras.
+	 * Se recomienda utilizar otro enfoque para verificar el nombre del empleado.
 	 */
 
 	private boolean comprobar(){
