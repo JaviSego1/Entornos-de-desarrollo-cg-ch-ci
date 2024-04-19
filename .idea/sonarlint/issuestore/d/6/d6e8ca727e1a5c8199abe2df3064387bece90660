@@ -1,17 +1,17 @@
 
-˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµòÿÿÿÿÿ8›ÚÅ‘í1J$76df04d6-1add-4856-8ed6-b185b33ef58e
-“	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Œ¡´8›ÚÅ‘í1J$3c1aa416-53e6-4f8e-8515-5a8277cf5ac2
-“	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8œÚÅ‘í1J$61e223ed-e935-48dd-8b70-c947d4b0470d
-“	java:S116"QRename this field "emp_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÇ8¦ÚÅ‘í1J$34e5941a-83d7-485a-a12b-d09e3b2cc727
-	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”Ä–8­ÚÅ‘í1J$b50077e1-7f29-47c8-a81c-bd9882bd15d8
-	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8­ÚÅ‘í1J$02629db9-3f43-4a66-bc2d-67194d8966c6
-~
-java:S1133ê"5Do not forget to remove this deprecated code someday.(Àø±†şÿÿÿÿ8¯Ğëˆî1J$3f2fe89a-0a72-457c-8e84-461b6fecddee
-p
-java:S1123ê"'Add the missing @Deprecated annotation.(Àø±†şÿÿÿÿ8°Ğëˆî1J$6e149d3c-d08e-4666-967f-db43bc7aab5c
-…
-java:S1126ë"AReplace this if-then-else statement by a single return statement.(Ç’Õ8´ÚÅ‘í1J$cd2345aa-a34a-422e-bf1b-37be2fe1698c
-o
-java:S1068",Remove this unused "apellido" private field.(åÔĞÁ8¶ÚÅ‘í1J$1a4bbd4e-27ec-41db-bc92-e130b4d3309d
-w
-java:S1144ê".Remove this unused private "comprobar" method.(Àø±†şÿÿÿÿ8·ÚÅ‘í1J$726d426a-bc78-44e2-bd31-9ab9e1a49bbf
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµòÿÿÿÿÿ8ÄÎ“‹î1
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Œ¡´8ÅÎ“‹î1
+m	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8ÅÎ“‹î1
+m	java:S116"QRename this field "emp_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÇ8ÚÎ“‹î1
+j	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”Ä–8äÎ“‹î1
+j	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8åÎ“‹î1
+X
+java:S1133ê"5Do not forget to remove this deprecated code someday.(Àø±†şÿÿÿÿ8ñÎ“‹î1
+J
+java:S1123ê"'Add the missing @Deprecated annotation.(Àø±†şÿÿÿÿ8òÎ“‹î1
+_
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(Ç’Õ8ôÎ“‹î1
+I
+java:S1068",Remove this unused "apellido" private field.(åÔĞÁ8÷Î“‹î1
+Q
+java:S1144ê".Remove this unused private "comprobar" method.(Àø±†şÿÿÿÿ8øÎ“‹î1
